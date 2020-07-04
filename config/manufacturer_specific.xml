@@ -1150,6 +1150,7 @@
 		<Product type="6100" id="6100" name="NZW97 2-Channel Outdoor Smart Plug" config="inovelli/nzw97.xml"/>
 	</Manufacturer>
 	<Manufacturer id="031E" name="Inovelli">
+	    <Product type="000e" id="0001" name="LZW36 Fan/Light Dimmer" config="inovelli/lzw36.xml"/>
 	</Manufacturer>
 	<Manufacturer id="0100" name="Insignia">
 	</Manufacturer>
